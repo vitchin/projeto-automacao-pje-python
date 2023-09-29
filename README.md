@@ -1,7 +1,7 @@
 # Automação PJE
 
 
-Projeto Python - Dev Aprender - automação para PJE(Projeto Judicial Eletrônico)
+Projeto Python - _Dev Aprender_ - automação para PJE(Projeto Judicial Eletrônico)
 
 
 **Funções:**
